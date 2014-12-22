@@ -35,61 +35,69 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The castell of laboureGringore, Pierre, ca. 1475-1538?1506Approx. 109 KB of XML-encoded text transcr
+The castell of laboure.
 #####Body#####
 
-1. The auctour
+1. Here begynneth the prologe
+of this present treatyse
 
-1. The auctour.
+1. ¶Thus endeth the prologue and be
+gynneth the castell of labour.
 
-1. ¶Wysedome.
+    _ The auctour
 
-1. Reason.
+    _ The auctour.
 
-1. ¶The auctour.
+    _ ¶Wysedome.
 
-1. ¶Good herte.
+    _ Reason.
 
-1. ¶The auctour.
+    _ ¶The auctour.
 
-1. ¶Lust to do good.
+    _ ¶Good herte.
 
-1. ¶The auctour.
+    _ ¶The auctour.
 
-1. ¶Besynesse.
+    _ ¶Lust to do good.
 
-1. ¶Cure.
+    _ ¶The auctour.
 
-1. ¶The auctour.
+    _ ¶Besynesse.
 
-1. ¶Besynesse.
+    _ ¶Cure.
 
-1. ¶The auctour.
+    _ ¶The auctour.
 
-1. ¶Payne.
+    _ ¶Besynesse.
 
-1. ¶Besynesse.
+    _ ¶The auctour.
 
-1. ¶Cure.
+    _ ¶Payne.
 
-1. ¶Payne:
+    _ ¶Besynesse.
 
-1. ¶The auctour.
+    _ ¶Cure.
 
-1. ¶Payne.
+    _ ¶Payne:
 
-1. ¶The auctour.
+    _ ¶The auctour.
 
-1. ¶The auctour.
+    _ ¶Payne.
 
-1. ¶Cure.
+    _ ¶The auctour.
 
-1. ¶The auctour.
+    _ ¶The auctour.
 
-1. ¶Actoris excusatio.
+    _ ¶Cure.
+
+    _ ¶The auctour.
+
+    _ ¶Actoris excusatio.
 
 #####Back#####
-The castell of laboureGringore, Pierre, ca. 1475-1538?1506Approx. 109 KB of XML-encoded text transcr
+¶Thus endeth the castell of labour
+wherin is rychesse / vertue / & honour.
+Enprynted at London in Fl
 **Types of content**
 
   * There are 2462 **verse** lines!
